@@ -1,0 +1,53 @@
+
+drafts/
+private/
+secrets/
+
+#PYTHON
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# VARIÁVEIS SECRETAS
+.env
+.env.*
+*.env
+
+# DEPENDÊNCIAS / BUILD
+build/
+dist/
+*.egg-info/
+
+#TESTES / COVERAGE
+.coverage
+htmlcov/
+.pytest_cache/
+
+# EDITORES / IDEs
+.vscode/
+.idea/
+
+# SISTEMA OPERATIVO
+.DS_Store
+Thumbs.db
+
+# LOGS
+*.log
+
+# NOTEBOOKS (Jupyter)
+.ipynb_checkpoints
+
+# DATABASES LOCAIS
+*.sqlite3
+*.db
+
+# ARQUIVOS TEMPORÁRIOS
+*.tmp
+*.temp
