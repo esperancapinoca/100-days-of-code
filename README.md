@@ -10,3 +10,8 @@ O repositório está organizado por dias de estudo:
     - Dia 04 → Funções e escopo - Nível 2
     - Dia 05 → Funções e escopo - Nível 3
     - Dia 06 → Funções e escopo - Nível 4
+- Listas e tuplas:
+    - Dia 07 → Listas e tuplas - Nível 1
+    - Dia 08 → Listas e tuplas - Nível 2
+- Dia 09 → Dicionários e sets
+- Dia 10 → Manipulação de strings
